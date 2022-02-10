@@ -1,0 +1,7 @@
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\demo-azure.exe
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\appsettings.json
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\demo-azure.dll
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\demo-azure.deps.json
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\demo-azure.runtimeconfig.json
+C:\Users\ENVY\OneDrive\Desktop\demo-azure\bin\Release\net6.0\publish\demo-azure.pdb
